@@ -1,0 +1,7 @@
+odi oracle data intergrity
+todd
+plsql/sql
+ code run plsql
+
+putty
+cmd
